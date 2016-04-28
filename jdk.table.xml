@@ -1,0 +1,269 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/.virtualenvs/django19_py35" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/django19_py35/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/pympa-homepage" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django19_py35/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django19_py35/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django19_py35/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/django19_py35/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/563216631" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.virtualenvs/telegram_bot" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/telegram_bot/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_bot/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_bot/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_bot/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_bot/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-1492428641" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.virtualenvs/bookmarks" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/bookmarks/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bookmarks/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bookmarks/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bookmarks/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bookmarks/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/353346785" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (/usr/local/var/pyenv/versions/3.5.1/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="/usr/local/var/pyenv/versions/3.5.1/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1913888119" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/PycharmProjects/pycharm_polyglot/env35" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/PycharmProjects/pycharm_polyglot/env35/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/pycharm_polyglot/env35/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/943246948" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-1222287026" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.virtualenvs/jmad" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/jmad/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/jmad-project/jmad" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/jmad/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/jmad/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/jmad/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/jmad/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/1791293969" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.virtualenvs/mezzanine41-dj19-py35" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/mezzanine41-dj19-py35/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/open-helpdesk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mezzanine41-dj19-py35/lib/python3.5/site-packages/django_model_utils-2.4-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mezzanine41-dj19-py35/lib/python3.5/site-packages/psycopg2-2.6.1-py3.5-macosx-10.11-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/pympa-utils" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mezzanine41-dj19-py35/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mezzanine41-dj19-py35/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mezzanine41-dj19-py35/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mezzanine41-dj19-py35/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1628363529" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/.virtualenvs/open-helpdesk" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/open-helpdesk/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/open-helpdesk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/open-helpdesk/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/open-helpdesk/lib/python3.4/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/open-helpdesk/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.4.3/lib/python3.4" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.4.3/lib/python3.4/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/open-helpdesk/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/290919393" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.virtualenvs/pycon7_pytest_django" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/pycon7_pytest_django/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pycon7_pytest_django/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pycon7_pytest_django/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pycon7_pytest_django/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/var/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pycon7_pytest_django/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-275088886" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.virtualenvs/twentyone" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/twentyone/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/twentyone/lib/python3.5/site-packages/setuptools-18.1-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/twentyone/lib/python3.5/site-packages/pip-7.1.0-py3.5.egg" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/twentyone/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1641430281" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
