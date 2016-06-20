@@ -28,7 +28,7 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
       </library>
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.9.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.11.2.jar</url>
       </library>
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
