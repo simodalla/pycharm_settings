@@ -1,6 +1,9 @@
 <code_scheme name="Default (1)">
   <option name="RIGHT_MARGIN" value="80" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Python>
     <option name="NEW_LINE_AFTER_COLON" value="true" />
   </Python>
