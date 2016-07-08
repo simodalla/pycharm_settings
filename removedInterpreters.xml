@@ -1,0 +1,9 @@
+<application>
+  <component name="PySdkService">
+    <option name="ADDED_SDKS">
+      <set>
+        <option value="/usr/local/var/pyenv/versions/3.5.1/bin/python" />
+      </set>
+    </option>
+  </component>
+</application>
