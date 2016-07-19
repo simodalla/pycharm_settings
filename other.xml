@@ -82,6 +82,7 @@
         <entry key="$USER_HOME$/.virtualenvs/telegram/bin/python" value="false" />
         <entry key="$USER_HOME$/PycharmProjects/pycharm_polyglot/env35/bin/python" value="false" />
         <entry key="/usr/local/var/pyenv/versions/2.7.11/bin/python" value="false" />
+        <entry key="vagrant:///Users/simo/PycharmProjects/effective_py_pen_test/usr/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -96,6 +97,7 @@
         <entry key="$USER_HOME$/.virtualenvs/telegram/bin/python" value="false" />
         <entry key="$USER_HOME$/PycharmProjects/pycharm_polyglot/env35/bin/python" value="false" />
         <entry key="/usr/local/var/pyenv/versions/2.7.11/bin/python" value="false" />
+        <entry key="vagrant:///Users/simo/PycharmProjects/effective_py_pen_test/usr/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -110,6 +112,7 @@
         <entry key="$USER_HOME$/.virtualenvs/telegram/bin/python" value="false" />
         <entry key="$USER_HOME$/PycharmProjects/pycharm_polyglot/env35/bin/python" value="false" />
         <entry key="/usr/local/var/pyenv/versions/2.7.11/bin/python" value="false" />
+        <entry key="vagrant:///Users/simo/PycharmProjects/effective_py_pen_test/usr/bin/python" value="false" />
       </map>
     </option>
   </component>
