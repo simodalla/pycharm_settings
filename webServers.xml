@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52a734b2-f34b-4d30-95d6-c304a4a12802" name="bronn" url="http://bronn">
+        <fileTransfer host="bronn" port="8422" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/djangoprjs/portale_sms" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8422" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
