@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern=".quickstart.py.swp" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="web-notls" type="YAML_EX" />
